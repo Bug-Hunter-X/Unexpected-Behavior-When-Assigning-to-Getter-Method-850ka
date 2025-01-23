@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Ruby related to how getter methods interact with instance variables. The `bug.rb` file shows the incorrect approach and unexpected behavior, while `bugSolution.rb` offers the correct way to modify the instance variable.
